@@ -12,7 +12,7 @@
 /*/[Uu]ser[Ss]ettings/
 /*/*.log
 # Ignore package cache but keep manifest
-Packages/*
+/*/Packages/*
 !Packages/manifest.json
 !Packages/packages-lock.json
 
