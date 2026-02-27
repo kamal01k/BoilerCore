@@ -376,7 +376,7 @@ Optimized for runtime-critical environments.
 
 # 📜 License
 
-MIT License – Free to use, modify, and distribute.
+Unlicense License – Free to use, modify, and distribute.
 
 ---
 
