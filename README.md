@@ -6,7 +6,11 @@ A unity project to showcase my skill. Public Message Show. Oh nice looking msg.
 - 📨 Event Bus System
 - 🆕 Dependency Injection System
 
-##Event-Bus System (C# / Unity) ->
+---
+
+## 🚀 Event-Bus System (C# / Unity) ->
+
+---
 
 Designed and implemented a high-performance, modular event bus for Unity projects, combining Observer + Broadcast patterns to enable loose coupling between classes.
 
@@ -155,6 +159,8 @@ Usage Examples :
 		await MessageCenter.SendAsync(PDFNote.LoadDocument, "document.pdf");
 	}
 	
+---
+
 ## Simple Dependency Injection (DI) System for Unity
 
 ## 🚀 Overview
