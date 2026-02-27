@@ -1,5 +1,10 @@
-# BoilerCore
+# BoilerCore – Modular Architecture Framework for Unity
 A unity project to showcase my skill. Public Message Show. Oh nice looking msg.
+
+✅ Featuring
+
+- 📨 Event Bus System
+- 🆕 Dependency Injection System
 
 ##Event-Bus System (C# / Unity) ->
 
@@ -383,3 +388,13 @@ If you find this useful:
 <p align="center">
   Built with ❤️ for Unity Developers
 </p>
+
+## 🔔 Latest Update
+
+### v1.1.0 – Dependency Injection System Added
+
+➕ Added lightweight DI container  
+➕ Named bindings support  
+➕ Singleton caching  
+➕ Safe resolution methods  
+➕ Runtime binding management  
